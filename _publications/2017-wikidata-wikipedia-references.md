@@ -17,5 +17,3 @@ to the same domain. Furthermore, Wikidata appears to use less Anglo-American-cen
 sources. These results deserve further in-depth investigation.
 
 [Download paper here](https://eprints.soton.ac.uk/412922/1/opensym_wd_vs_wp_2_.pdf)
-
-Recommended citation: Piscopo, A., Vougiouklis, P., Kaffee, L. A., Phethean, C., Hare, J., & Simperl, E. (2017, August). What do Wikidata and Wikipedia Have in Common?: An Analysis of their Use of External References. In Proceedings of the 13th International Symposium on Open Collaboration (p. 1). ACM.
