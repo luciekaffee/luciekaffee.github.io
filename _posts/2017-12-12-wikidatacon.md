@@ -1,6 +1,6 @@
 ---
 title: 'WikidataCon 2017 (Berlin)'
-date: 2012-08-14
+date: 2017-12-12
 permalink: /posts/2012/08/2017-12-12-wikidatacom/
 tags:
   - wikidata
