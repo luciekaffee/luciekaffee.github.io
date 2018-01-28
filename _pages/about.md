@@ -10,7 +10,7 @@ redirect_from:
 
 Lucie is a PhD student at the School of Electronics and Computer Science, University of Southampton, as part of the Web and Internet Research Group. Additionally, part of the part of the Marie Skłodowska-Curie ITN [WDAqua](http://wdaqua.eu/).
 
-Her research interest involve Linked Data, Mulitlinguality, Wikidata, Underserved Languages on the Web and most recently Machine Learning.
+Her research interests include Linked Data, Mulitlinguality, Wikidata, Underserved Languages on the Web and most recently Machine Learning.
 
 Therefore, the paper on [Multilingual Data in Wikidata](https://eprints.soton.ac.uk/413433/) summarizes her current interests quite well.
 
