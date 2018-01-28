@@ -2,10 +2,10 @@
 title: "What to do with all this open data?"
 collection: talks
 type: "Talk"
-permalink: /talks/2014-02-01-talk-2
-venue: "London School of Testing"
-date: 2014-02-01
-location: "London, UK"
+permalink: /talks/2015-open-data
+venue: "EnthusiastiCon"
+date: 2015-12-04
+location: "Berlin, Germany"
 ---
 
 There is so much you can do with open data! Lucie Kaffee shows three totally different projects she worked on over the last months. Learn about: 
