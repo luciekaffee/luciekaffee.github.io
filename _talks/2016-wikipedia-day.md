@@ -8,6 +8,6 @@ date: 2016-01-16
 location: "New York City, USA"
 ---
 
-[Slides](https://www.slideshare.net/frimelle/wikidata-at-wikipeda-day-15-2016-nyc)
-
 Introduction to Wikidata for Wikimedia contributer
+
+[Slides](https://www.slideshare.net/frimelle/wikidata-at-wikipeda-day-15-2016-nyc)
