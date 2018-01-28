@@ -3,7 +3,7 @@ title: "Digital Language Inequality"
 collection: talks
 type: "Podcast"
 permalink: /talks/2016-podcast-language
-venue: "Podcast"
+venue: "sourcecode.berlin"
 date: 2016-02-25
 ---
 

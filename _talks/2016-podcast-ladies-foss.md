@@ -3,7 +3,7 @@ title: "Ladies That FOSS"
 collection: talks
 type: "Podcast"
 permalink: /talks/2016-podcast-ladies-foss
-venue: "Podcast"
+venue: "sourcecode.berlin"
 date: 2016-11-03
 ---
 
