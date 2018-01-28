@@ -18,7 +18,8 @@ We are here to help bring those two together.
 
 We match FOSS projects with women interested in FOSS.
 
-###The Event
+The Event
+------
 
 This is a unique opportunity for nonbinary and woman coders to test out uncharted waters and code FOSS by meeting some people who already got the FOSS flu and are deeply involved in projects.
 
@@ -28,7 +29,8 @@ This is an event which will offer newcomers the opportunity to engage closely wi
 
 We are super excited for the opportunity to play matchmakers for a day and bring women coders and projects together. 
 
-###Participating FOSS projects
+Participating FOSS projects
+------
 
 - Wikidata
 - Firefox
