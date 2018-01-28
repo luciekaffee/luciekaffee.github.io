@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2017-wikidata-wikipedia-references
 excerpt: 'Analysis of external references in Wikidata and Wikipedia'
 date: 2017-08-23
-venue: 'OpenSym'17
+venue: 'International Symposium on Open Collaboration'
 paperurl: 'https://eprints.soton.ac.uk/412922/1/opensym_wd_vs_wp_2_.pdf'
 citation: 'Piscopo, A., Vougiouklis, P., Kaffee, L. A., Phethean, C., Hare, J., & Simperl, E. (2017, August). What do Wikidata and Wikipedia Have in Common?: An Analysis of their Use of External References. In Proceedings of the 13th International Symposium on Open Collaboration (p. 1). ACM.'
 ---
