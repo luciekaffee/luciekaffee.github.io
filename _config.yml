@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Lucie-Aimée Kaffee"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Lucie-Aimée Kaffee"
+description              : &description "Computer Science Researcher"
+url                      : https://luciekaffee.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "luciekaffee/luciekaffee.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -78,13 +78,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  name             : "Lucie-Aimée Kaffee"
+  avatar           : "talking.png"
+  bio              : "Researcher Multilinguality in the Semantic Web"
+  location         : "Bristol, UK"
+  employer         : University of Southampton
+  googlescholar    : "https://scholar.google.co.uk/citations?user=xiuGTq0AAAAJ"
+  email            : kaffee[at]soton.ac.uk
   uri              :
   bitbucket        :
   codepen          :
@@ -92,24 +92,24 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "luciekaffee"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0000-0002-1514-8505"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "frimelle"
   vine             :
   weibo            :
   xing             :
   youtube          :
-  wikipedia        :
+  wikipedia        : User:Frimelle
 
 
 # Reading Files
