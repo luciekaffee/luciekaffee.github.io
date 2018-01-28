@@ -1,6 +1,6 @@
 ---
 title: "Ladies That FOSS Meetup"
-excerpt: "Organization of an event to encourage more women to contribute to Open Source projects"
+excerpt: "Organization of an event to encourage more women to contribute to Open Source projects<br/><img src='/images/ladies-that-foss-header.png'>"
 collection: projects
 ---
 
