@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/2017-dev-summit
 venue: "Wikimedia Developer Summit"
-date: 2017
+date: 2017-01-10
 location: "San Francisco, California"
 ---
 
