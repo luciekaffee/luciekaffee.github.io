@@ -2,7 +2,7 @@
 title: "Learning to Generate Wikipedia Summaries for Underserved Languages from Wikidata"
 collection: publications
 permalink: /publication/2018-naacl-summary-generation
-excerpt: 'Analysis of external references in Wikidata and Wikipedia'
+excerpt: "Neural Generation of Summaries from Wikidata for Wikipedia in Underserved Languages"
 date: 2018-06-05
 venue: 'North American Chapter of the Association for Computational Linguistics: Human Language Technologies 2018'
 paperurl: 'https://arxiv.org/abs/1803.07116'

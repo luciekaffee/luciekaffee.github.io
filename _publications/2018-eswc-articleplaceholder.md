@@ -2,7 +2,7 @@
 title: "Mind the (Language) Gap: Generation of Multilingual Wikipedia Summaries from Wikidata for ArticlePlaceholders"
 collection: publications
 permalink: /publication/2018-eswc-articleplaceholder
-excerpt: 'Analysis of external references in Wikidata and Wikipedia'
+excerpt: "Generation of Multilingual Summaries from Wikidata for Wikipedia's ArticlePlaceholder"
 date: 2018-06-03
 venue: 'Extended Semantic Web Conference 2018'
 paperurl: 'https://2018.eswc-conferences.org/wp-content/uploads/2018/02/ESWC2018_paper_131.pdf'
