@@ -7,7 +7,7 @@ tags:
   - event report
 ---
 
-The Web Conference is one of the most established conferences in the field of research around the web. I had the oppurtunity to attend this year's version of it. Below are some of my personal highlights summarized.
+The Web Conference is one of the most established conferences in the field of research around the web. I had the opportunity to attend this year's version of it. Below are some of my personal highlights summarized.
 
 The first tutorial I attended was called *A Critical Review of Social Data: Biases, Methodological Pitfalls, and Ethical Boundaries*. In the past, I discussed biases in data mainly in the context of machine learning with fellow researchers, therefore I was interested to see their take on this topic.
 The tutorial summarized interesting research in the field, such as the fact that women's code changes to GitHub are more likely to be accepted unless they are identified as women.
@@ -22,7 +22,7 @@ My personal highlight however was the second day of tutorials and workshops. I a
 
 He talked, among others, about representation of quantities and how many machine learning tools still lack of the understanding of those. Interesting to me particularly, as I have discussed semantifying of quantities in the context of Wikidata and the Web of Data in general. He also emphasized the need of artificial intelligence tools to understand the notion of context and common sense. 
 
-I presented the work of Thomas Pelisier Tanon and myself on property label stability in Wikidata in a 90 seconds overview.
+I presented the work of Thomas Pellissier Tanon and myself on property label stability in Wikidata in a 90 seconds overview.
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Wikidata’s schema is edited by its community–is that a sustainable model? <a href="https://twitter.com/frimelle?ref_src=twsrc%5Etfw">@frimelle</a> <a href="https://twitter.com/hashtag/wikiworkshop2018?src=hash&amp;ref_src=twsrc%5Etfw">#wikiworkshop2018</a> <a href="https://twitter.com/hashtag/theWebConf?src=hash&amp;ref_src=twsrc%5Etfw">#theWebConf</a> <a href="https://t.co/xtOujCq4Yf">pic.twitter.com/xtOujCq4Yf</a></p>&mdash; Wiki Workshop 2018 (@wikiworkshop) <a href="https://twitter.com/wikiworkshop/status/988719613197381632?ref_src=twsrc%5Etfw">April 24, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
