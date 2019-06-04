@@ -24,8 +24,8 @@ So, my participation in the hackathon was mainly planned for research work and a
 
 However, as every good hackathon, plans change. In my case, I met the amazing [Ondřej Merkun](https://github.com/merkur0) and [Joe Reeve](https://simmsreeve.com/), that didn’t shy away from implementing a whole prototype of Scribe. With the help of the people around us, we created a prototype that not only works on Czech Wikipedia, but also follows design standards and nicely integrates into the visual editor of Wikipedia. Ondřej worked on the frontend, integration in the visual editor, and adding my visions of colorful buttons and sideboards with references. Joe created the backend and generally gave technical advice, to us and everyone around. Not only was it amazing working with them, it was really fun to spend time together and I am looking forward to see them at the next hackathon.
 
-![Hackathon Team](https://raw.githubusercontent.com/luciekaffee/luciekaffee.github.io/master/images/hackathon-crew-2019.png)
-*Best hackathon team, me, Joe, Ondřej*
+![Hackathon Team](https://raw.githubusercontent.com/luciekaffee/luciekaffee.github.io/master/images/hackathon-crew-2019.jpg)
+*Best hackathon team, me, Joe, Ondřej and the Scribe poster*
 
 I can’t express my excitement about our prototype enough in words, therefore I can only recommend watching the video we created for the hackathon showcase (with the sound environment of the hackathon) 
 
@@ -43,6 +43,6 @@ Related, but not quite the same, we created this video for the project, to give 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BqyTiDw0k40" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 *Video introducting Scribe*
 
-![Hackathon Team](https://raw.githubusercontent.com/luciekaffee/luciekaffee.github.io/master/images/hackathon-crew-2019-2.png)
-*Discovering Prague with the team*
+![Hackathon Team](https://raw.githubusercontent.com/luciekaffee/luciekaffee.github.io/master/images/hackathon-crew-2019-2.jpg)
+**Thank you so much! Looking forward to collaborations in the feature!**
 
