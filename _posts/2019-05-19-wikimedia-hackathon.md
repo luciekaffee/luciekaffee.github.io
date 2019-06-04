@@ -44,5 +44,5 @@ Related, but not quite the same, we created this video for the project, to give 
 *Video introducting Scribe*
 
 ![Hackathon Team](https://raw.githubusercontent.com/luciekaffee/luciekaffee.github.io/master/images/hackathon-crew-2019-2.jpg)
-**Thank you so much! Looking forward to collaborations in the feature!**
+**Thank you so much! Looking forward to collaborations in the future!**
 
