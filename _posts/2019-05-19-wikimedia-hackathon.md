@@ -33,7 +33,7 @@ I can’t express my excitement about our prototype enough in words, therefore I
 *Video of the prototype, recoded at the hackathon*
 
 ![Presenting the prototype](https://upload.wikimedia.org/wikipedia/commons/1/1f/Wikimedia_Hackathon_2019_Showcase_Event_2.jpg)
-*Presenting the prototype at the hackathon with Joe, Ondřej and the Scribe poster*
+*Presenting the prototype at the hackathon with Joe, Ondřej and the Scribe poster ([Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Wikimedia_Hackathon_2019_Showcase_Event_2.jpg), CC BY-SA 4.0)*
 
 The code can be found here: https://github.com/ISNIT0/mediawiki-scribe
 
