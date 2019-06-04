@@ -15,7 +15,7 @@ The Wikimedia hackathon is an event to bring together the technical community, t
 
 This year’s hackathon for me was focused on the Scribe project; in advance, we prepared a poster to present the project and exchange with people there and their impression on it. The plan was to get people excited and conduct a series of qualitative interviews to understand how Wikipedia editors currently use references in their articles. Getting their perspectives was very fascinating and gave us a broader understanding of how different language communities interact with references. We are still conducting those interviews, the sign-up sheet can be found [here](https://forms.gle/wjmfoAKUzD3dEFWB6). Now, we are interviewing people remotely to get a broad representation of Wikipedia editors, new and experienced, from a variety of languages and backgrounds.
 
-![Scribe Poster](https://github.com/luciekaffee/luciekaffee.github.io/blob/master/images/ScribePosterWikimediaHackathon.png)
+![Scribe Poster](https://raw.githubusercontent.com/luciekaffee/luciekaffee.github.io/master/images/ScribePosterWikimediaHackathon.png)
 
 
 Further, we created a survey that was aiming at editors, that was more specific to Scribe to gather the first feedback on the project. This [survey is still open](https://forms.gle/Ada42cQ9QoiY9u4x7), too. 
