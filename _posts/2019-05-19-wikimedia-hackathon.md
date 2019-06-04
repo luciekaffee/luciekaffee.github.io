@@ -27,10 +27,13 @@ However, as every good hackathon, plans change. In my case, I met the amazing [O
 ![Hackathon Team](https://raw.githubusercontent.com/luciekaffee/luciekaffee.github.io/master/images/hackathon-crew-2019.jpg)
 *Best hackathon team, me, Joe, Ondřej and the Scribe poster*
 
-I can’t express my excitement about our prototype enough in words, therefore I can only recommend watching the video we created for the hackathon showcase (with the sound environment of the hackathon) 
+I can’t express my excitement about our prototype enough in words, therefore I can only recommend watching the video we created for the hackathon showcase (with the sound environment of the hackathon).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VWeQwhkzvEw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 *Video of the prototype, recoded at the hackathon*
+
+![Presenting the prototype](https://upload.wikimedia.org/wikipedia/commons/1/1f/Wikimedia_Hackathon_2019_Showcase_Event_2.jpg)
+*Presenting the prototype at the hackathon with Joe, Ondřej and the Scribe poster*
 
 The code can be found here: https://github.com/ISNIT0/mediawiki-scribe
 
