@@ -2,7 +2,7 @@
 title: "When Humans and Machines Collaborate: Cross-lingual Label Editing in Wikidata"
 collection: publications
 permalink: /publication/2019-opensym-bots
-excerpt: ?Analysing how humans and bots works on multilingual data in Wikidata?
+excerpt: "Analysing how humans and bots works on multilingual data in Wikidata"
 date: 2019-08-20
 venue: '15th International Symposium on Open Collaboration'
 paperurl: 'https://opensym.org/wp-content/uploads/2019/08/os19-paper-A16-kaffee.pdf'
