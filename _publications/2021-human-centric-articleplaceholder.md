@@ -3,7 +3,7 @@ title: "Using natural language generation to bootstrap missing Wikipedia article
 collection: publications
 permalink: /publication/2021-human-centric-articleplaceholder
 excerpt: 'Human-centric perspective on natural language generation for Wikipedia'
-date: 2017-02-03
+date: 2022-02-03
 venue: 'Semantic Web Journal'
 paperurl: 'https://content.iospress.com/articles/semantic-web/sw210431'
 citation: 'Kaffee, L. A., Vougiouklis, P., & Simperl, E. (2021). Using natural language generation to bootstrap missing Wikipedia articles: A human-centric perspective. Semantic Web, (Preprint), 1-30.'
