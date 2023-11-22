@@ -1,0 +1,13 @@
+---
+title: "TempEL: Linking Dynamically Evolving and Newly Emerging Entities"
+collection: publications
+permalink: /publication/2022-tempel-entity-linking
+excerpt: 'The paper presents TempEL, a new dataset for entity linking that captures the impact of evolving entities over time. Using time-stratified English Wikipedia snapshots from 2013 to 2022, TempEL reveals a decrease in entity linking accuracy for both continual entities (up to 3.1%) and newly emerging entities (up to 17.9%), highlighting the challenge of time-evolving entity disambiguation and suggesting new directions for research in this field.'
+date: 2022-12-06
+venue: 'NeurIPS 2022'
+paperurl: 'https://arxiv.org/abs/2302.02500'
+citation: 'Zaporojets, K., Kaffee, L. A., Deleu, J., Demeester, T., Develder, C., & Augenstein, I. (2022). TempEL: Linking Dynamically Evolving and Newly Emerging Entities. In Advances in Neural Information Processing Systems (NeurIPS) 35 (2022): 1850-1866.=.'
+---
+In our continuously evolving world, entities change over time and new, previously non-existing or unknown, entities appear. We study how this evolutionary scenario impacts the performance on a well established entity linking (EL) task. For that study, we introduce TempEL, an entity linking dataset that consists of time-stratified English Wikipedia snapshots from 2013 to 2022, from which we collect both anchor mentions of entities, and these target entities’ descriptions. By capturing such temporal aspects, our newly introduced TempEL resource contrasts with currently existing entity linking datasets, which are composed of fixed mentions linked to a single static version of a target Knowledge Base (eg, Wikipedia 2010 for CoNLL-AIDA). Indeed, for each of our collected temporal snapshots, TempEL contains links to entities that are continual, ie, occur in all of the years, as well as completely new entities that appear for the first time at some point. Thus, we enable to quantify the performance of current state-of-the-art EL models for:(i) entities that are subject to changes over time in their Knowledge Base descriptions as well as their mentions’ contexts, and (ii) newly created entities that were previously non-existing (eg, at the time the EL model was trained). Our experimental results show that in terms of temporal performance degradation,(i) continual entities suffer a decrease of up to 3.1% EL accuracy, while (ii) for new entities this accuracy drop is up to 17.9%. This highlights the challenge of the introduced TempEL dataset and opens new research prospects in the area of time-evolving entity disambiguation.
+
+[Full paper here](https://arxiv.org/abs/2302.02500)
