@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Lucie, in her role as Applied Policy Researcher at Hugging Face, works on the intersection of policy and AI technology. Her research focuses on harnessing AI to support online communities, such as on Wikipedia. Driven by a commitment to community-driven decision-making, she integrates her expertise in machine learning, AI ethics, and policy to address critical societal challenges. 
+Lucie, in her role as Applied Policy Researcher at <a href="https://huggingface.co/">Hugging Face</a>, works on the intersection of policy and AI technology. Her research focuses on harnessing AI to support online communities, such as on Wikipedia. Driven by a commitment to community-driven decision-making, she integrates her expertise in machine learning, AI ethics, and policy to address critical societal challenges. 
 
 She earned her PhD from the School of Electronics and Computer Science, University of Southampton, as part of the Web and Internet Research Group. She was a postdoc at CopeNLU, a NLP research group located at the University of Copenhagen (Københavns Universitet), postdoc at HPI Potsdam, Germany, Bloomberg Intern in London UK, research associate at the TIB Scientific Data Management Research Group in Hanover and was part of the part of the Marie Skłodowska-Curie ITN [WDAqua](http://wdaqua.eu/).
 
