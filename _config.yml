@@ -81,8 +81,8 @@ author:
   name             : "Lucie-Aimée Kaffee"
   avatar           : "talking.png"
   bio              : "NLP and Knowledge Graphs Researcher"
-  location         : "Potsdam, Germany"
-  employer         : Hasso-Plattner-Institut
+  location         : "Berlin, Germany"
+  employer         : <a href="https://huggingface.co/">Hugging Face</a>
   googlescholar    : "https://scholar.google.co.uk/citations?user=xiuGTq0AAAAJ"
   email            : lucie-aimee.kaffee[at]hpi.de
   uri              :
