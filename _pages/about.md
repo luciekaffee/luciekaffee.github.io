@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Lucie is a postdoctoral research fellow at Hasso-Plattner-Institut, working on NLP and Knowledge Graphs. She earned her PhD from the School of Electronics and Computer Science, University of Southampton, as part of the Web and Internet Research Group. She was a postdoc at CopeNLU, a NLP research group located at the University of Copenhagen (Københavns Universitet), Bloomberg Intern in London UK, research associate at the TIB Scientific Data Management Research Group in Hanover and was part of the part of the Marie Skłodowska-Curie ITN [WDAqua](http://wdaqua.eu/).
+Lucie, in her role as Applied Policy Researcher at Hugging Face, works on the intersection of policy and AI technology. Her research focuses on harnessing AI to support online communities, such as on Wikipedia. Driven by a commitment to community-driven decision-making, she integrates her expertise in machine learning, AI ethics, and policy to address critical societal challenges. 
+
+She earned her PhD from the School of Electronics and Computer Science, University of Southampton, as part of the Web and Internet Research Group. She was a postdoc at CopeNLU, a NLP research group located at the University of Copenhagen (Københavns Universitet), postdoc at HPI Potsdam, Germany, Bloomberg Intern in London UK, research associate at the TIB Scientific Data Management Research Group in Hanover and was part of the part of the Marie Skłodowska-Curie ITN [WDAqua](http://wdaqua.eu/).
 
 Her research focuses on technological solutions to problems of online communities, particularly Wikipedia, with a focus on lower-resourced language communities. [Policy making in online communities](https://arxiv.org/pdf/2310.05779.pdf) is a topic crucial to her work. She has worked in [cross-cultural NLP](https://arxiv.org/abs/2203.13722), [editor behaviour on Wikipedia](https://dl.acm.org/doi/pdf/10.1145/3442442.3452337), and mutlilinguality in knowledge graphs such as Wikidata.  
 
