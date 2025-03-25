@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Lucie-Aimée Kaffee"
+title                    : "Dr.Lucie-Aimée Kaffee"
 title_separator          : "-"
-name                     : &name "Lucie-Aimée Kaffee"
+name                     : &name "Dr. Lucie-Aimée Kaffee"
 description              : &description "Computer Science Researcher"
 url                      : https://luciekaffee.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Lucie-Aimée Kaffee"
   avatar           : "talking.png"
-  bio              : "NLP and Knowledge Graphs Researcher"
+  bio              : "EU Policy Lead @ Hugging Face, Machine Learning Researcher"
   location         : "Berlin, Germany"
   employer         : <a href="https://huggingface.co/">Hugging Face</a>
   googlescholar    : "https://scholar.google.co.uk/citations?user=xiuGTq0AAAAJ"
